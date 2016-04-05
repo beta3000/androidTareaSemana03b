@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TareaSemana03</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="opciones">
+        <item>Actividad A</item>
+        <item>Actividad B</item>
+    </string-array>
+    <string name="title_activity_actividad">ActividadA</string>
+    <string name="title_activity_actividad_b">ActividadB</string>
+</resources>
